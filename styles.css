@@ -586,14 +586,7 @@ grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
 
-.code-icon {
-    background-color: #111c30;
-    color: #2563eb;
-    padding: 6px 10px;
-    border-radius: 6px;
-    font-weight: bold;
-    font-size: 0.9rem;
-}
+
 
 .brand-text {
     display: flex;
